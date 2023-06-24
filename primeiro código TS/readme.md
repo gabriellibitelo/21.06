@@ -12,5 +12,6 @@ npm i -g typescript
 # transpilar o código ts
 npx tsc index.ts
 
-# node index.js //
+node index.js //
 
+npx tsc -init
