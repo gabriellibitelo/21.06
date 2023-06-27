@@ -1,0 +1,12 @@
+{
+  "name": "segundo-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tsc && node ./buIld/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "tsc"
+}
