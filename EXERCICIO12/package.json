@@ -1,0 +1,12 @@
+{
+  "name": "exercicio12",
+  "version": "1.0.0",
+  "description": "COMANDOS PARA RODAR TYPESCRIPT",
+  "main": "exercicio12.js",
+  "scripts": {
+  "start": "npx tsc && node ./build/exercicio12.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
