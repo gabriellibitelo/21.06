@@ -1,0 +1,13 @@
+{
+  "name": "exercicio15",
+  "version": "1.0.0",
+  "description": "Verificar versão do node\r node -v",
+  "main": "exercicio15.js",
+  "scripts": {
+    "start": "npx tsc && node ./build/exercicio15.js"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
